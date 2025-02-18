@@ -9,3 +9,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.contador {
+    font-family: 'Roboto Mono', monospace; /* Tipo de letra monospace */
+    font-size: 48px; /* Tamaño de la fuente */
+    color: #333; /* Color del texto */
+    background-color: #eee; /* Color de fondo */
+    padding: 16px; /* Espacio interior */
+    border-radius: 8px; /* Bordes redondeados */
+    justify-content: center;
+    align-items: center;
+    }
